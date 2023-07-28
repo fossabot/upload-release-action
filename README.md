@@ -1,4 +1,5 @@
 # Upload files to a GitHub release [![GitHub Actions Workflow](https://github.com/svenstaro/upload-release-action/workflows/PR%20Checks/badge.svg)](https://github.com/svenstaro/upload-release-action/actions)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fupload-release-action.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fupload-release-action?ref=badge_shield)
 
 This action allows you to select which files to upload to the just-tagged release.
 It runs on all operating systems types offered by GitHub.
@@ -218,3 +219,7 @@ To release this Action:
 - `git tag -sm <version> <version>`
 - `git push --follow-tags`
 - Go to https://github.com/svenstaro/upload-release-action/releases and publish the new version
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fupload-release-action.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fupload-release-action?ref=badge_large)
